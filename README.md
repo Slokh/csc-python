@@ -49,7 +49,7 @@ local computer. If you haven't, do that first. You can find instructions in the 
 
 What Do I Do Next?
 ------------------
-
+x
 If you have checked out a local copy of your repository you can start making changes
 to the sample code.  We suggest making a small change to index.py first, so you can
 see how changes pushed to your project's repository are automatically picked up by your
